@@ -1,5 +1,5 @@
 from fastapi import APIRouter, Query, HTTPException
-from openai_client.client import get_openai_response  # Use your actual function
+from openai_client.client import get_openai_response  
 
 router = APIRouter()
 
