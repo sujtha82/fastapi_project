@@ -1,4 +1,4 @@
-
+creating a simple FastAPI application with a few endpoints
 A FastAPI application for text summarization.
 Setup Instructions
 Create Folder Structure
